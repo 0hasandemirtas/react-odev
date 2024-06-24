@@ -18,5 +18,5 @@ function RouterConfig() {
     </Routes>
     </div>
   )
-}
+}d
 export default RouterConfig
